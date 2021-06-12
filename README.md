@@ -1,5 +1,5 @@
 # Tkinter-Gui-Application
-Psychology test with GUI
+Psychology test with GUI.
 Program is written in Python with Tkinter.
 
 This is V. Zung Depression Scale.
